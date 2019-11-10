@@ -1,0 +1,19 @@
+{
+  "name": "staticsite",
+  "version": "1.0.0",
+  "description": "An Attempt to create stati Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmnixTry/StaticSite.git"
+  },
+  "author": "Wild Nixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmnixTry/StaticSite/issues"
+  },
+  "homepage": "https://github.com/OmnixTry/StaticSite#readme"
+}
